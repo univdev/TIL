@@ -1,6 +1,4 @@
-# 20210810
-## 요약
-JEST 단위 테스트를 활용하기 위한 Husky 라이브러리를 사용하여 자동 배포하기
+# JEST + Husky 선 테스트 후 커밋
 ## How
 1. JEST Installation
 ```
