@@ -16,6 +16,7 @@
 - [명언 모음집 추가](./famous_saying)
 ### Javascript
 - [깊은 객체 탐색 방법](./javascript/깊은_객체_탐사_방법)
+- [CORS 대처방법](./javascript/CORS_대처방법.md)
 ### Vue
 - [Nuxtjs 프로젝트 설정 방법](./vue/nuxtjs_설치_가이드.md)
 - [Vuetify 라이브러리 추가 방법 및 사용 후기](./vue/vuetify_설치_가이드.md)
