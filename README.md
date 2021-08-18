@@ -20,5 +20,6 @@
 ### Vue
 - [Nuxtjs 프로젝트 설정 방법](./vue/nuxtjs_설치_가이드.md)
 - [Vuetify 라이브러리 추가 방법 및 사용 후기](./vue/vuetify_설치_가이드.md)
+- [Vuex 모듈 가이드](./vue/vuex_모듈_가이드.md)
 ### Git
 - [Git Commit message convention](./git/커밋_메시지_가이드.md);
