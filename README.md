@@ -26,3 +26,5 @@
 - [Commit Message Guide](./git/커밋_메시지_가이드.md)
 ### Major Knowledge
 - [RESTFul API에 대하여](./major_knowledge/restful_api_에_대하여.md)
+### Typescript
+- [Typescript 에러 모음](./typescript/typescript_에러.md)
