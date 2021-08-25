@@ -9,7 +9,7 @@
 ### Unit test
 - [JEST + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
 ### Teamwork
-- [원활한 프로젝트 견적을 위한 플래닝 포커](./teamwork/프로젝트_견적을_위한_플래닝_포커)
+- [원활한 프로젝트 견적을 위한 플래닝 포커](./teamwork/프로젝트_견적을_위한_플래닝_포커.md)
 ### Docker
 - [Docker 설치 방법 및 기초](./docker/도커_설치가이드.md)
 ### Famous saying
