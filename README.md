@@ -28,6 +28,7 @@
 ### Major Knowledge
 - [RESTFul API에 대하여](./major_knowledge/restful_api_에_대하여.md)
 - [프론트엔드 개발자가 알아야 할 UI 용어](./major_knowledge/프론트엔드_개발자가_알아야할_UI_용어.md)
+- [HTTP와 HTTPS](./major_knowledge/http와_https.md)
 ### Typescript
 - [Typescript 에러 모음](./typescript/typescript_에러.md)
 ### NodeJS
