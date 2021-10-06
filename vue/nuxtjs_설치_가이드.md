@@ -21,34 +21,34 @@ npx create-nuxt-app [project-name]
       - 주로 사용하는, 사용할 예정인 프레임워크를 선택하면 되는데 주로 Element UI, Vant, Vuetify를 선택한다.
       - 개인적으로 Vant 추천
     5. Nuxt.js modules: 다중 선택 가능
-      - 프로젝트 개발에 필요한 모듈을 설치
-      - Axios (서버와 통신을 하면서 데이터를 불러올 수 있는 라이브러리) * 거의 필수
-      - Progressive Web App (휴대폰에 설치해서 사용할 수 있는 어플리케이션을 제작할 때 사용)
-      - Content (깃 기반으로 동작하는 화면이 없는 컨텐츠 관리 툴)
+         - 프로젝트 개발에 필요한 모듈을 설치
+         - Axios (서버와 통신을 하면서 데이터를 불러올 수 있는 라이브러리) * 거의 필수
+         - Progressive Web App (휴대폰에 설치해서 사용할 수 있는 어플리케이션을 제작할 때 사용)
+         - Content (깃 기반으로 동작하는 화면이 없는 컨텐츠 관리 툴)
     6. Linting tools: 다중 선택 가능
-      - 프로젝트 전체의 문법을 관리할 라이브러리를 설치
-      - 주로 ESLint, Prettier를 설치함.
+         - 프로젝트 전체의 문법을 관리할 라이브러리를 설치
+         - 주로 ESLint, Prettier를 설치함.
     7. Testing Framework:
-      -  단위 테스트를 진행할 라이브러리를 설치
-      -  Jest를 주로 사용하는 추세지만, 굳이 사용하지 않는다면 None을 설치
+         -  단위 테스트를 진행할 라이브러리를 설치
+         -  Jest를 주로 사용하는 추세지만, 굳이 사용하지 않는다면 None을 설치
     8. Rendering mode:
       - 웹사이트 렌더링 방식을 선택
       - Universal (SSR을 지원하며, 보편적인 웹서비스를 구축할 때 사용함) * 추천
       - Single Page App (모바일 어플리케이션을 구축할 때 사용함)
     9. Developyment target:
-      - 배포 방식을 선택
-      - Server (별도의 서버가 존재하여 외부로부터 컨텐츠를 불러와서 유동적으로 변하는 웹사이트를 구축할 때 사용) * 추천
-      - Static (정적인 컨텐츠, 변하지 않는 컨텐츠로 웹사이트를 구축할 때 사용함)
+         - 배포 방식을 선택
+         - Server (별도의 서버가 존재하여 외부로부터 컨텐츠를 불러와서 유동적으로 변하는 웹사이트를 구축할 때 사용) * 추천
+         - Static (정적인 컨텐츠, 변하지 않는 컨텐츠로 웹사이트를 구축할 때 사용함)
     10. Development tools: 다중 선택 가능
-      - 개발할 때 도움이 되는 툴 설치
-      - jsconfig.json (Visual studio code 에디터를 사용하는 개발자가 설치하면 좋음) * 추천
-      - Semantic Pull Request
-      - Dependabot (깃허브 페이지 프로젝트인 경우에 설치)
+         - 개발할 때 도움이 되는 툴 설치
+         - jsconfig.json (Visual studio code 에디터를 사용하는 개발자가 설치하면 좋음) * 추천
+         - Semantic Pull Request
+         - Dependabot (깃허브 페이지 프로젝트인 경우에 설치)
     11. Continuous integration:
-      - 자동 배포 모듈을 설치
-      - 보통 Github Actions를 설치하지만 자동 배포를 생략하려면 None 선택
+         - 자동 배포 모듈을 설치
+         - 보통 Github Actions를 설치하지만 자동 배포를 생략하려면 None 선택
     12. Version control system:
-      - 무조건 Git
+         - 무조건 Git
 3. 전처리기 설치
    1. 설치 방법에서는 ```pug```와 ```less```를 사용함.
    2. ```yarn add pug pug-plain-loader less less-loader@6.2.0```
