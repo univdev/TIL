@@ -1,10 +1,4 @@
 # TIL
-## GOALS
-- 배운 것을 잊지 않기
-- 못해도 4개월 이상 가기
-## Website
-- [https://univdev.tistory.com](https://univdev.tistory.com) (기술 블로그)
----
 ## 목차
 ### Unit test
 - [JEST + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
