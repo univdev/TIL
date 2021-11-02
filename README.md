@@ -19,11 +19,13 @@
 - [CORS 대처방법](./javascript/CORS_대처방법.md)
 - [chartjs](./javascript/chartjs.md)
 ### Vue
-- [Nuxtjs 프로젝트 설정 방법](./vue/nuxtjs_설치_가이드.md)
 - [Vuetify 라이브러리 추가 방법 및 사용 후기](./vue/vuetify_설치_가이드.md)
 - [Vuex 모듈 가이드](./vue/vuex_모듈_가이드.md)
 - [Git Pages를 NuxtJS로 구축하기](./vue/git_pages를_nuxtjs로_구축하기)
 - [Build 과정에서 Template 파일 제작하기](./vue/build_과정에서_template_파일_제작하기.md)
+### Nuxt.js
+- [Nuxtjs 프로젝트 설정 방법](./vue/nuxtjs_설치_가이드.md)
+- [Nuxtjs 3와 Nuxtjs 2의 차이점](./nuxtjs/Nuxtjs_3와_Nuxtjs_2의_차이점.md)
 ### Git
 - [Git Commit message convention](./git/커밋_메시지_가이드.md)
 - [Commit Message Guide](./git/커밋_메시지_가이드.md)
