@@ -18,8 +18,8 @@
 - [Git Pages를 NuxtJS로 구축하기](./vue/git_pages를_nuxtjs로_구축하기)
 - [Build 과정에서 Template 파일 제작하기](./vue/build_과정에서_template_파일_제작하기.md)
 ### Nuxt.js
-- [Nuxtjs 프로젝트 설정 방법](./vue/nuxtjs_설치_가이드.md)
-- [Nuxtjs 3와 Nuxtjs 2의 차이점](./nuxtjs/Nuxtjs_3와_Nuxtjs_2의_차이점.md)
+- [Nuxtjs 프로젝트 설정 방법](./nuxtjs/nuxtjs_설치_가이드.md)
+- [Nuxtjs 3와 Nuxtjs 2의 차이점](./nuxtjs/Nuxtjs_3와_Nuxtjs_2의_차이점)
 ### Git
 - [Git Commit message convention](./git/커밋_메시지_가이드.md)
 - [Commit Message Guide](./git/커밋_메시지_가이드.md)
