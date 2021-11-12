@@ -1,5 +1,4 @@
 # TIL
-## 목차
 ### Unit test
 - [JEST + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
 ### Teamwork
