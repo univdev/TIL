@@ -1,4 +1,6 @@
 # TIL
+### Web
+- [웹팩이란](./webpack/웹팩이란.md)
 ### Unit test
 - [JEST + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
 ### Teamwork
@@ -33,11 +35,7 @@
 - [Module Import 문제 모음](./nodejs/module_import_문제.md)
 ### Project
 - [카카오톡 링크 공유](./project/kakao_공유/README.md)
-### Java
-- [Sevlet에서 인코딩을 해도 한국어가 깨지는 이슈](./java/인코딩을_해도_한국어가_깨지는_이슈)
 ### Linux
 - [리눅스 명령어](./linux/리눅스_명렁어.md)
 ### Unreal Engine
 - [3D 모델링을 적용하는법]()
-### Webpack
-- [웹팩이란](./webpack/웹팩이란.md)
