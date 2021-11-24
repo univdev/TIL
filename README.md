@@ -27,6 +27,7 @@
 ### Git
 - [Git Commit message convention](./git/커밋_메시지_가이드.md)
 - [Commit Message Guide](./git/커밋_메시지_가이드.md)
+- [Git Actions](./git/git_actions.md)
 ### Major Knowledge
 - [RESTFul API에 대하여](./major_knowledge/restful_api_에_대하여.md)
 - [프론트엔드 개발자가 알아야 할 UI 용어](./major_knowledge/프론트엔드_개발자가_알아야할_UI_용어.md)

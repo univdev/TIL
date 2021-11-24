@@ -1,5 +1,6 @@
-![CSS3 Sticky](https://i.imgur.com/IzZjOqL.gif)
 # CSS3 Sticky
+![CSS3 Sticky](https://i.imgur.com/IzZjOqL.gif)
+## ☀️ 개요
 CSS3에서 등장한 Sticky는 웹 상에 존재하는 UI를 스크롤에 따라 움직이게 하는 속성이다.
 ## 💾 기존
 CSS3에서 sticky 속성이 추가 되기 전에는 유사한 기능을 만들기 위해서 ```Javascript```를 사용해야만 했다.
