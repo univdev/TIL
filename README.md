@@ -1,6 +1,7 @@
 # TIL
 ### Web
-- [웹팩이란](./webpack/웹팩이란.md)
+- [웹팩이란](./web/웹팩이란.md)
+- [sticky를 이용한 스크롤에 따라 움직이는 요소 만들기](./web/sticky를_이용한_스크롤에_따라_움직이는_요소_만들기.md)
 ### Unit test
 - [JEST + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
 ### Teamwork
