@@ -15,6 +15,7 @@
 - [CORS 대처방법](./javascript/CORS_대처방법.md)
 - [chartjs](./javascript/chartjs.md)
 ### Vue
+- [Lifecycle](./vue/lifecycle.md)
 - [Vuetify 라이브러리 추가 방법 및 사용 후기](./vue/vuetify_설치_가이드.md)
 - [Vuex 모듈 가이드](./vue/vuex_모듈_가이드.md)
 - [Git Pages를 NuxtJS로 구축하기](./vue/git_pages를_nuxtjs로_구축하기)
