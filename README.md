@@ -43,3 +43,5 @@
 - [리눅스 명령어](./linux/리눅스_명렁어.md)
 ### Unreal Engine
 - [3D 모델링을 적용하는법]()
+### React Native
+- [m1 mac 초기 설정 하는법](./react_native/m1_mac_초기_설정.md)
