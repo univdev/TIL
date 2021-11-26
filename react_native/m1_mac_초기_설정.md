@@ -3,9 +3,9 @@
 모바일 어플리케이션을 제작하기 위한 Reactjs 기반 Framework인 React Native를 M1 Mac 환경에서 실행하기 위한 초기 설정 가이드이다.
 ## ✏️ 작성자
 [CHOI BOO 블로그](https://qnrjs42.blog/react-native/m1-arm64-setting)
-## 소요시간
+## 🕰 소요시간
 약 **1일**
-## 설정 방법
+## 🤾‍♂️ 설정 방법
 1\. Xcode 설치
 ============
 
