@@ -14,7 +14,7 @@ npm i -S v-viewer
 yarn add v-viewer
 ```
 ## 🚀 사용 방법
-### 프로젝트 임포트
+### Import
 ```javascript
 import 'viewerjs/dist/viewer.css';
 import VueViewer from 'v-viewer';
