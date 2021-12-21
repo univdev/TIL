@@ -65,3 +65,47 @@ export default Routes;
 
 ```Stack.Screen```은 실제로 사용자에게 보여지는 하나의 페이지로, ```name``` 프로퍼티와 ```component``` 프로퍼티를 의무적으로 받는다.
 ```name```은 웹페이지의 ```URL```의 역할을 하며, ```component```는 해당 스크린이 보여질 때 실질적으로 보여질 UI의 집합을 정의한다.
+### Drawer
+#### 개요
+![Drawer Navigation](./drawer.gif)
+
+좌측이나 우측에 사이드 메뉴바를 추가하여 이동할 수 있는 네비게이션 컴포넌트이다.
+#### 역할
+사이드 메뉴바를 띄워서 해당 그룹에 연결되어있는 하위 페이지들끼리 이동할 수 있다. 메뉴바 커스터마이징을 통해 ```Stack.Screen```과 같은 다른 네비게이션으로의 이동도 가능하다.
+#### 예제
+```javascript
+import React from 'react';
+import {
+  createDrawerNavigator,
+  DrawerContentScrollView,
+} from '@react-navigation/drawer';
+import { View, Text } from 'react-native';
+import Home from '../pages/index';
+
+const Drawer = createDrawerNavigator();
+
+const App = () => {
+  return (
+    <Drawer.Navigator
+      drawerContent={ Menu }>
+      <Drawer.Screen
+        name="Drawer.Home"
+        component={ Home }/>
+    </Drawer.Navigator>
+  );
+};
+
+const Menu = () => {
+  return (
+    <DrawerContentScrollView>
+      <View>
+        <Text>Hello world!</Text>
+      </View>
+    </DrawerContentScrollView>
+  );
+};
+
+export default App;
+```
+기본적으로는 ```Stack.Screen```과 구조가 동일하다. 다만 ```Drawer.Navigator``` 컴포넌트가 ```Stack.Navigator```와 비슷한 역할을 하는데, 해당 컴포넌트의 ```drawerContent``` 프로퍼티에 메뉴바 컴포넌트를 전달하면
+default 메뉴바가 아닌 직접 만든 메뉴바를 띄울 수 있다.
