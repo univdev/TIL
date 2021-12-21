@@ -3,8 +3,8 @@
 ### Web
 - [웹팩이란](./web/웹팩이란.md)
 - [sticky를 이용한 스크롤에 따라 움직이는 요소 만들기](./web/sticky를_이용한_스크롤에_따라_움직이는_요소_만들기.md)
-- [Quill Editor 적용 및 커스텀](./vue/quill_editor_적용_및_커스텀.md)
-- [quill_에디터에서_속성값을_유지하는_방법](./vue/quill_에디터에서_속성값을_유지하는_방법.md)
+- [Quill 에디터 적용 및 커스텀](./vue/quill_editor_적용_및_커스텀.md)
+- [Quill 에디터에서 속성값을 유지하는 방법](./vue/quill_에디터에서_속성값을_유지하는_방법.md)
 ### Unit test
 - [JEST + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
 ### Teamwork
