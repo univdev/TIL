@@ -3,6 +3,8 @@
 ### Web
 - [웹팩이란](./web/웹팩이란.md)
 - [sticky를 이용한 스크롤에 따라 움직이는 요소 만들기](./web/sticky를_이용한_스크롤에_따라_움직이는_요소_만들기.md)
+- [Quill Editor 적용 및 커스텀](./vue/quill_editor_적용_및_커스텀.md)
+- [quill_에디터에서_속성값을_유지하는_방법](./vue/quill_에디터에서_속성값을_유지하는_방법.md)
 ### Unit test
 - [JEST + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
 ### Teamwork
@@ -22,7 +24,6 @@
 - [Git Pages를 NuxtJS로 구축하기](./vue/git_pages를_nuxtjs로_구축하기)
 - [Build 과정에서 Template 파일 제작하기](./vue/build_과정에서_template_파일_제작하기.md)
 - [v-viewer 라이트박스 플러그인](./vue/v-viewer_라이트박스_플러그인.md)
-- [Quill Editor 적용 및 커스텀](./vue/quill_editor_적용_및_커스텀.md)
 ### Nuxt.js
 - [Nuxtjs 프로젝트 설정 방법](./nuxtjs/nuxtjs_설치_가이드.md)
 - [Nuxtjs 3와 Nuxtjs 2의 차이점](./nuxtjs/Nuxtjs_3와_Nuxtjs_2의_차이점)
