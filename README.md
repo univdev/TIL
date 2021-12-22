@@ -51,6 +51,7 @@
 - [null value 렌더링](./react/null_value_렌더링.md)
 - [Redux 개요](./react_native/redux_개요.md)
 - [Redux 연동](./react/redux_연동.md)
+- [렌더링 횟수를 줄이는법](./react/렌더링_횟수를_줄이는법.md)
 ### React Native
 - [m1 mac 초기 설정 하는법](./react_native/m1_mac_초기_설정.md)
 - [각종 이슈 해결 방법](./react_native/각종%20세팅%20이슈%20해결.md)
