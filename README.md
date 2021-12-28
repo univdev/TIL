@@ -17,6 +17,7 @@
 - [깊은 객체 탐색 방법](./javascript/깊은_객체_탐사_방법)
 - [CORS 대처방법](./javascript/CORS_대처방법.md)
 - [chartjs](./javascript/chartjs.md)
+- [var, let, hoisting, scope](./javascript/var_let_hoisting_scope.md)
 ### Vue
 - [Lifecycle](./vue/lifecycle.md)
 - [Vuetify 라이브러리 추가 방법 및 사용 후기](./vue/vuetify_설치_가이드.md)
@@ -42,6 +43,7 @@
 - [Module Import 문제 모음](./nodejs/module_import_문제.md)
 ### Project
 - [카카오톡 링크 공유](./project/kakao_공유/README.md)
+- [TDD 방법론](./project/tdd.md)
 ### Linux
 - [리눅스 명령어](./linux/리눅스_명렁어.md)
 ### Unreal Engine
