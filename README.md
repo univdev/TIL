@@ -64,6 +64,7 @@
 - [각종 이슈 해결 방법](./react_native/각종%20세팅%20이슈%20해결.md)
 - [Navigation](./react_native/navigation/README.md)
 - [useFocusEffect](./react_native/useFocusEffect.md)
+- [Gesture Handler 안드로이드 이슈 해결법](./react_native/gesture-handler_안드로이드_이슈.md)
 ### Dart
 ## ✏️ 인문학적 지식
 ### 경영
