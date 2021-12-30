@@ -58,6 +58,7 @@
 - [useMemo](./react/useMemo.md)
 - [useCallback](./react/useCallback.md)
 - [React.Mode](./react/mode.md)
+- [useReducer](./react/useReducer.md)
 ### React Native
 - [m1 mac 초기 설정 하는법](./react_native/m1_mac_초기_설정.md)
 - [각종 이슈 해결 방법](./react_native/각종%20세팅%20이슈%20해결.md)
