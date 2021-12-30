@@ -1,4 +1,5 @@
 # React Native Gesture Handler 안드로이드 이슈
+출처는 **[여기!](https://stackoverflow.com/questions/70335156/how-to-resolve-react-native-navigation-error-while-installing-version-6)**
 ## 개요
 ```react-native-gesture-handler``` 라이브러리는 ```React Navigation```의 ```draw navigation```을 사용하기 위해 반드시 ```import```해야하는 라이브러리이다. 아마도 우측이나 좌측부터 사용자가 손가락으로 끌어서 당기는 애니메이션을 지원하다보니 ```gesture```를 다루기 위해서 사용하는 것 같다.
 
