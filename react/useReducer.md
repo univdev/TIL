@@ -79,7 +79,7 @@ const reducer = (state, action) => {
   if (action.type === 'SET_NAME') return { ...state, name: action.payload };
 };
 const App = () => {
-  const [state, dispatch] = useReducer({
+  const [state, dispatch] = useReducer(reducer, {
     name: '',
     address: '',
     rank: 1,
