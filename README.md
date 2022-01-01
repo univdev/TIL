@@ -18,6 +18,7 @@
 - [CORS 대처방법](./javascript/CORS_대처방법.md)
 - [chartjs](./javascript/chartjs.md)
 - [var, let, hoisting, scope](./javascript/var_let_hoisting_scope.md)
+- [최적화 노하우](./javascript/최적화_노하우.md)
 ### Vue
 - [Lifecycle](./vue/lifecycle.md)
 - [Vuetify 라이브러리 추가 방법 및 사용 후기](./vue/vuetify_설치_가이드.md)
