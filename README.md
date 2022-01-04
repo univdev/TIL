@@ -19,6 +19,7 @@
 - [CORS 대처방법](./javascript/CORS_대처방법.md)
 - [chartjs](./javascript/chartjs.md)
 - [var, let, hoisting, scope](./javascript/var_let_hoisting_scope.md)
+- [최적화 노하우](./javascript/최적화_노하우.md)
 ### Vue
 - [Lifecycle](./vue/lifecycle.md)
 - [Vuetify 라이브러리 추가 방법 및 사용 후기](./vue/vuetify_설치_가이드.md)
@@ -47,8 +48,6 @@
 - [TDD 방법론](./project/tdd.md)
 ### Linux
 - [리눅스 명령어](./linux/리눅스_명렁어.md)
-### Unreal Engine
-- [3D 모델링을 적용하는법]()
 ### Reactjs
 - [렌더링 메커니즘](./react/렌더링_메커니즘.md)
 - [반복 렌더링](./react/반복_렌더링.md)
