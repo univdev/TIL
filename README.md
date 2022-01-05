@@ -5,6 +5,7 @@
 - [sticky를 이용한 스크롤에 따라 움직이는 요소 만들기](./web/sticky를_이용한_스크롤에_따라_움직이는_요소_만들기.md)
 - [Quill 에디터 적용 및 커스텀](./web/quill_editor_적용_및_커스텀.md)
 - [Quill 에디터에서 속성값을 유지하는 방법](./web/quill_에디터에서_속성값을_유지하는_방법.md)
+- [카카오톡 링크 공유](./web/kakao_공유/README.md)
 ### Unit test
 - [Jest + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
 - [Jest를 이용한 React Native 단위 테스트](./unit_test/jest를_이용한_react_native_단위_테스트)
@@ -45,7 +46,6 @@
 ### NodeJS
 - [Module Import 문제 모음](./nodejs/module_import_문제.md)
 ### Project
-- [카카오톡 링크 공유](./project/kakao_공유/README.md)
 - [TDD 방법론](./project/tdd.md)
 ### Linux
 - [리눅스 명령어](./linux/리눅스_명렁어.md)
