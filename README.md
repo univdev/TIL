@@ -66,7 +66,7 @@
 - [Navigation](./react_native/navigation/README.md)
 - [useFocusEffect](./react_native/useFocusEffect.md)
 - [Gesture Handler 안드로이드 이슈 해결법](./react_native/gesture-handler_안드로이드_이슈.md)
-### Dart
+- [ScrollView vs FlatList](./react_native/scrollview_vs_flatlist.md)
 ## ✏️ 인문학적 지식
 ### 경영
 - [시리즈 투자란?](./경영/시리즈_투자란.md)
