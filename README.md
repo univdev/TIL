@@ -47,6 +47,7 @@
 - [Module Import 문제 모음](./nodejs/module_import_문제.md)
 ### Project
 - [TDD 방법론](./project/tdd.md)
+- [nodejs 프로젝트에서 루트 폴더 import 하기](./project/nodejs_프로젝트에서_루트_폴더_import_하기.md)
 ### Linux
 - [리눅스 명령어](./linux/리눅스_명렁어.md)
 ### Reactjs
