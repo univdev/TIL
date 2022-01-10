@@ -21,7 +21,7 @@
 - [CORS 대처방법](./javascript/CORS_대처방법.md)
 - [chartjs](./javascript/chartjs.md)
 - [var, let, hoisting, scope](./javascript/var_let_hoisting_scope.md)
-- [최적화 노하우](./javascript/최적화_노하우.md)
+- [console.log와 퍼포먼스](./javascript/console_log와_퍼포먼스.md)
 ### Vue
 - [Lifecycle](./vue/lifecycle.md)
 - [Vuetify 라이브러리 추가 방법 및 사용 후기](./vue/vuetify_설치_가이드.md)
@@ -42,6 +42,7 @@
 - [HTTP와 HTTPS](./major_knowledge/http와_https.md)
 - [개발용어](./major_knowledge/기본용어.md)
 - [시멘틱 태그의 사용](./major_knowledge/시멘틱_태그의_사용)
+- [Flux Architecture](./major_knowledge/flux.md)
 ### Typescript
 - [Typescript 에러 모음](./typescript/typescript_에러.md)
 ### NodeJS
