@@ -1,5 +1,5 @@
 # Mendix 개발 시작하기
-## Dash까지 접속하는 방법
+## Dashboard 접속하는 방법
 [여기](https://home.mendix.com)에 접속합니다. (만약 로그인이 되어있지 않다면 **로그인**합니다.)  
 
 우측 상단 **[Create App]** 버튼을 누릅니다.  
