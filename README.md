@@ -69,6 +69,10 @@
 - [useFocusEffect](./react_native/useFocusEffect.md)
 - [Gesture Handler 안드로이드 이슈 해결법](./react_native/gesture-handler_안드로이드_이슈.md)
 - [ScrollView vs FlatList](./react_native/scrollview_vs_flatlist.md)
+### Mendix
+- [01. 개요](./mendix/01_개요.md)
+- [02. 개발절차](./mendix/02_개발절차.md)
+- [03. 생태계](./mendix/03_생태계.md)
 ## ✏️ 인문학적 지식
 ### 경영
 - [시리즈 투자란?](./경영/시리즈_투자란.md)
