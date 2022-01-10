@@ -71,7 +71,7 @@
 - [ScrollView vs FlatList](./react_native/scrollview_vs_flatlist.md)
 ### Mendix
 - [01. 개요](./mendix/01_개요.md)
-- [02. 개발절차](./mendix/02_개발절차.md)
+- [02. 개발방식](./mendix/02_개발방식.md)
 - [03. 생태계](./mendix/03_생태계.md)
 - [04. 개발시작하기](./mendix/04_개발시작하기)
 ## ✏️ 인문학적 지식
