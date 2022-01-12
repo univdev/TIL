@@ -72,6 +72,7 @@
 - [Gesture Handler 안드로이드 이슈 해결법](./react_native/gesture-handler_안드로이드_이슈.md)
 - [ScrollView vs FlatList](./react_native/scrollview_vs_flatlist.md)
 - [Dimension window vs screen](./react_native/dimension_window_vs_screen.md)
+- [Cocoapods](./react_native/cocoapods.md)
 ### Mendix
 - [01. 개요](./mendix/01_개요.md)
 - [02. 개발방식](./mendix/02_개발방식.md)
