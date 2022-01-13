@@ -6,6 +6,7 @@
 - [Quill 에디터 적용 및 커스텀](./web/quill_editor_적용_및_커스텀.md)
 - [Quill 에디터에서 속성값을 유지하는 방법](./web/quill_에디터에서_속성값을_유지하는_방법.md)
 - [카카오톡 링크 공유](./web/kakao_공유/README.md)
+- [렌더링과 최적화](./web/렌더링과_최적화.md)
 ### Unit test
 - [Jest + Husky 선 테스트 후 커밋](./unit_test/커밋_테스트)
 - [Jest를 이용한 React Native 단위 테스트](./unit_test/jest를_이용한_react_native_단위_테스트)
