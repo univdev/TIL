@@ -47,6 +47,16 @@
 - [Flux Architecture](./major_knowledge/flux.md)
 ### Typescript
 - [Typescript 에러 모음](./typescript/typescript_에러.md)
+- [01. 기초](./typescript/01.기초.md)
+- [02. Function type expression](./typescript/02.function_type_expression.md)
+- [03. Signatures](./typescript/03.signatures.md)
+- [04. Generic](./typescript/04.generic.md)
+- [05. Optional parameters](./typescript/05.optional_parameters.md)
+- [06. Overloading](./typescript/06.overloading.md)
+- [07. Readonly](./typescript/07.readonly.md)
+- [08. Index Signatures](./typescript/08.index_signatures.md)
+- [09. Extending Types](./typescript/09.extending_types.md)
+- [10. Class](./typescript/10.class.md)
 ### NodeJS
 - [Module Import 문제 모음](./nodejs/module_import_문제.md)
 ### Project
