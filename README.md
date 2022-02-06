@@ -94,6 +94,8 @@
 - [Liquid Syntax 이슈](./jekyll/liquid_syntax_이슈_해결.md)
 ### Ruby & Gem
 - [It seems your ruby installation is missing psych 이슈
+### Firebase
+- [Firestore Database 개요](./firebase/firestore_database_개요/README.md)
 ## ✏️ 인문학적 지식
 ### 경영
 - [시리즈 투자란?](./경영/시리즈_투자란.md)
