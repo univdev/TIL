@@ -92,8 +92,6 @@
 - [04. 개발시작하기](./mendix/04_개발시작하기)
 ### Jekyll
 - [Liquid Syntax 이슈](./jekyll/liquid_syntax_이슈_해결.md)
-### Ruby & Gem
-- [It seems your ruby installation is missing psych 이슈
 ### Firebase
 - [Firestore Database 개요](./firebase/firestore_database_개요/README.md)
 ## ✏️ 인문학적 지식
