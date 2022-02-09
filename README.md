@@ -93,7 +93,8 @@
 ### Jekyll
 - [Liquid Syntax 이슈](./jekyll/liquid_syntax_이슈_해결.md)
 ### Firebase
-- [Firestore Database 개요](./firebase/firestore_database_개요/README.md)
+- [Firestore Database 개요](./firebase/firestore_database_개요/README.md)\
+- [Firestore Database를 Vue에서 사용해보자](./firebase/firestore_database를_vue에서_사용해보자)
 ## ✏️ 인문학적 지식
 ### 경영
 - [시리즈 투자란?](./경영/시리즈_투자란.md)
